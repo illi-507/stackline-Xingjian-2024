@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stackline-Xingjian-2024/static/css/main.5a80ef57.chunk.css",
+    "main.js": "/stackline-Xingjian-2024/static/js/main.e333e468.chunk.js",
+    "main.js.map": "/stackline-Xingjian-2024/static/js/main.e333e468.chunk.js.map",
+    "runtime-main.js": "/stackline-Xingjian-2024/static/js/runtime-main.b9114769.js",
+    "runtime-main.js.map": "/stackline-Xingjian-2024/static/js/runtime-main.b9114769.js.map",
+    "static/js/2.edb3a7ba.chunk.js": "/stackline-Xingjian-2024/static/js/2.edb3a7ba.chunk.js",
+    "static/js/2.edb3a7ba.chunk.js.map": "/stackline-Xingjian-2024/static/js/2.edb3a7ba.chunk.js.map",
+    "static/js/3.8a416645.chunk.js": "/stackline-Xingjian-2024/static/js/3.8a416645.chunk.js",
+    "static/js/3.8a416645.chunk.js.map": "/stackline-Xingjian-2024/static/js/3.8a416645.chunk.js.map",
+    "index.html": "/stackline-Xingjian-2024/index.html",
+    "precache-manifest.a4f3ccb39608c565eedd8d89ad60cbe7.js": "/stackline-Xingjian-2024/precache-manifest.a4f3ccb39608c565eedd8d89ad60cbe7.js",
+    "service-worker.js": "/stackline-Xingjian-2024/service-worker.js",
+    "static/css/main.5a80ef57.chunk.css.map": "/stackline-Xingjian-2024/static/css/main.5a80ef57.chunk.css.map",
+    "static/js/2.edb3a7ba.chunk.js.LICENSE.txt": "/stackline-Xingjian-2024/static/js/2.edb3a7ba.chunk.js.LICENSE.txt",
+    "static/media/stackline_logo.64b21497.svg": "/stackline-Xingjian-2024/static/media/stackline_logo.64b21497.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9114769.js",
+    "static/js/2.edb3a7ba.chunk.js",
+    "static/css/main.5a80ef57.chunk.css",
+    "static/js/main.e333e468.chunk.js"
+  ]
+}
