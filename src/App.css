@@ -54,7 +54,7 @@
   width: 100%;
   background-color: #FFFFFF;
   box-shadow: -5px 0 5px -5px rgba(0, 0, 0, 0.5), 5px 0 5px -5px rgba(0, 0, 0, 0.5);
- 
+  min-width: 1500px;
 }
 
 .content-container{
