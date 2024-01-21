@@ -1,0 +1,94 @@
+.app-container{
+  background-color: #F6F8FA;
+}
+.header{
+  background-color: #052849;
+  padding: 10px;
+}
+
+.main-content{
+  margin: 40px 10px;
+  display: flex;    
+  border: 1px solid transparent;
+}
+
+.leftbar-container{
+  height: 80vh;
+  width: 20%;
+  border: 1px solid transparent;
+  background-color: #FFFFFF;
+  box-shadow: -5px 0 5px -5px rgba(0, 0, 0, 0.5), 5px 0 5px -5px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+  box-sizing: border-box;
+}
+
+.subtitle{
+  padding: 0 20px;
+  color: #bdc3c7;
+}
+
+.tag-container {
+     border-top: 1px solid #bdc3c7;
+     border-bottom: 1px solid #bdc3c7;
+     display: flex;
+     flex-wrap: wrap;
+     padding: 10px 20px; 
+     margin-top: 20px;    
+}
+
+.tag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    border: 1px solid #bdc3c7;
+     margin: 5px 5px;
+}
+
+.sales-table{
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #FFFFFF;
+  box-shadow: -5px 0 5px -5px rgba(0, 0, 0, 0.5), 5px 0 5px -5px rgba(0, 0, 0, 0.5);
+ 
+}
+
+.content-container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin:0 20px;
+  
+}
+
+.sales-table th,
+.sales-table td {
+  border-bottom: 1px solid #B9C0CC;
+  padding: 15px;
+  font-weight: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #636e72;
+  text-align:right;
+  box-sizing: border-box;
+  padding-right: 30px;
+}
+
+.sales-table th{
+  color: black;
+  padding-top: 25px;  
+  cursor: pointer;
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  margin-right: 2px;
+}
+
+.sales-table th:hover{
+  color: #74B9FF;   
+  border-bottom: 1px solid #74B9FF;
+}
